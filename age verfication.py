@@ -1,5 +1,5 @@
 age = 17
-if age >= 18:
+if age >= 21:
     print("You are an adult.")
     
 else:
